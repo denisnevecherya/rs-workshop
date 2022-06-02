@@ -1,2 +1,2 @@
 Some text for training.
-Changes from <master>
+Changes from <master> - new changes!!!
